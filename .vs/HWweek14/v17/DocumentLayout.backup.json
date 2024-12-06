@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HUST IN MY HEART\\2024-2025\\ET2100 _ DSA(CTDLGT)\\Homework\\HWweek14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HUST IN MY HEART\\2024-2025\\ET2100 _ DSA(CTDLGT)\\Homework\\HWweek14\\hw14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hw14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HUST IN MY HEART\\2024-2025\\ET2100 _ DSA(CTDLGT)\\Homework\\HWweek14\\bai1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bai1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HUST IN MY HEART\\2024-2025\\ET2100 _ DSA(CTDLGT)\\Homework\\HWweek14\\debai.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:debai.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bai1.cpp",
+              "DocumentMoniker": "D:\\HUST IN MY HEART\\2024-2025\\ET2100 _ DSA(CTDLGT)\\Homework\\HWweek14\\bai1.cpp",
+              "RelativeDocumentMoniker": "bai1.cpp",
+              "ToolTip": "D:\\HUST IN MY HEART\\2024-2025\\ET2100 _ DSA(CTDLGT)\\Homework\\HWweek14\\bai1.cpp",
+              "RelativeToolTip": "bai1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T07:30:20.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hw14.cpp",
+              "DocumentMoniker": "D:\\HUST IN MY HEART\\2024-2025\\ET2100 _ DSA(CTDLGT)\\Homework\\HWweek14\\hw14.cpp",
+              "RelativeDocumentMoniker": "hw14.cpp",
+              "ToolTip": "D:\\HUST IN MY HEART\\2024-2025\\ET2100 _ DSA(CTDLGT)\\Homework\\HWweek14\\hw14.cpp",
+              "RelativeToolTip": "hw14.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-05T14:29:02.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "debai.txt",
+              "DocumentMoniker": "D:\\HUST IN MY HEART\\2024-2025\\ET2100 _ DSA(CTDLGT)\\Homework\\HWweek14\\debai.txt",
+              "RelativeDocumentMoniker": "debai.txt",
+              "ToolTip": "D:\\HUST IN MY HEART\\2024-2025\\ET2100 _ DSA(CTDLGT)\\Homework\\HWweek14\\debai.txt",
+              "RelativeToolTip": "debai.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-05T14:28:32.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
